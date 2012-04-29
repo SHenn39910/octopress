@@ -6,12 +6,12 @@ $main-bg: #f7f6f2;
 $page-bg: #282828;
 
 $header-bg: desaturate(#f7f3e8, 8) image-url('noise.png');
-$header-bg-front: image-url('noise.png');
 $header-border: #E8E2D4;
 
-$link-color: #a84149;
-$link-color-visited: #a84149;
-$link-color-hover: adjust-color($link-color, $lightness: 10, $saturation: 25);
+$link-color: #ab4d3b; 
+$link-color-visited: #ab4d3b; 
+$link-color-active: #ab4d3b; 
+$link-color-hover: #be5642;
 
 //$header-bg: #cd7f72;
 //$subtitle-color: lighten($header-bg, 58);
@@ -20,8 +20,8 @@ $nav-bg: #cf8273;
 //$nav-bg-front: image-url('noise.png');
 //$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));
 $sidebar-bg: desaturate(#f7f3e8, 8);
-$sidebar-link-color: #a84149;
-$sidebar-link-color-hover: adjust-color($sidebar-link-color, $lightness: 10, $saturation: 25);
+$sidebar-link-color: #ab4d3b;  
+$sidebar-link-color-hover: #be5642; 
 $footer-bg: #cf8273;
 $footer-bg-front: image-url('noise.png');
 $footer-bg-back: linear-gradient(lighten($footer-bg, 8), $footer-bg, darken($footer-bg, 11));
