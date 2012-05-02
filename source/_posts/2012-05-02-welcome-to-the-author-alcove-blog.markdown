@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is this Author Alcove Thing?"
-date: 2012-05-01 15:09
+date: 2012-05-02 00:09
 comments: true
 categories: [The Alcove]
 ---
