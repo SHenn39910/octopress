@@ -16,7 +16,7 @@ I started Author Alcove because I don't think looking for new books to read shou
 
 ## What do you do?
 
-Author Alcove wants to help you solve one question: What should I read next? You tell us what authors you like, and we'll let you know when they publish new books. It's that simple. 
+Author Alcove wants to help you answer one question: What should I read next? You tell us what authors you like, and we'll let you know when they publish new books. It's that simple. 
 
 Curious? [Sign up for an invite here](http://authoralcove.com), and we will send you an invite when the beta launches. Early adopters are our favorite people.
 
