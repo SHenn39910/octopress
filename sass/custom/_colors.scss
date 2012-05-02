@@ -13,9 +13,12 @@ $link-color-visited: #ab4d3b;
 $link-color-active: #ab4d3b; 
 $link-color-hover: #be5642;
 
-//$header-bg: #cd7f72;
+$header-bg: desaturate(#f7f3e8, 8) image-url('noise.png');
+//$header-border: #E8E2D4;
+$header-border: #C87160;
+
+
 //$subtitle-color: lighten($header-bg, 58);
-//$nav-bg: desaturate(lighten(#cf8273, 18), 5);
 $nav-bg: #cf8273;
 //$nav-bg-front: image-url('noise.png');
 //$nav-bg-back: linear-gradient(lighten($nav-bg, 8), $nav-bg, darken($nav-bg, 11));

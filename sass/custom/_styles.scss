@@ -1,9 +1,19 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
 
+h1 {
+   font-size: 2.05em;
+}
+
 footer p {
        margin-bottom: 0;
        text-align: center;
+}
+
+body > header {
+     padding-top: 4em;
+     padding-bottom: 3em;
+     border-bottom: 1px solid #C87160;
 }
 
 
