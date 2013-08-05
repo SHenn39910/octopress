@@ -4,7 +4,7 @@ require "stringex"
 
 ## -- Rsync Deploy config -- ##
 # Be sure your public key is listed in your server's ~/.ssh/authorized_keys file
-ssh_user       = "smudge@66.175.220.160"
+ssh_user       = "smudge@thor"
 ssh_port       = "22"
 document_root  = "/var/www/authoralcove/blog/"
 rsync_delete   = true
